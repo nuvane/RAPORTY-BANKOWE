@@ -1,8 +1,9 @@
 <h1>Generator Sald Dziennych</h1>
 
-Automatyczny generator raportu sald dziennych z kont bankowych dla wielu spółek i walut. 
-Skrypt tworzy raport Excel (SaldoDzienny.xlsx) zawierający dane, wykresy trendów oraz arkusz podsumowujący.
-Projekt oparty na Pythonie i bibliotece openpyxl oraz matplotlib.
+Projekt oparty na Pythonie i bibliotece openpyxl oraz matplotlib.<br>
+Automatyczny generator raportu sald dziennych z kont bankowych dla wielu spółek i walut.<br> 
+Skrypt tworzy raport Excel (SaldoDzienny.xlsx) zawierający dane, wykresy trendów oraz arkusz podsumowujący.<br>
+
 
 <hr>
 
