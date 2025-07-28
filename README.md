@@ -14,14 +14,15 @@ Projekt oparty na Pythonie i bibliotece openpyxl oraz matplotlib.
   - Wykresami trendów sald (Trendy sald od początku roku i dla ostatnich 3 miesięcy) dla każdego konta
   - Zbiorczym arkuszem podsumowującym z łącznymi saldami
 
-### Arkusz CompanyA PLN
+<h3>Arkusz: Company A – PLN</h3>
+<img src="images/company%20A%20PLN.png" alt="Arkusz Company A" width="700"/>
 
-![ARKUSZ COMPANY A PLN](images/company%20A%20PLN.png)
+<hr>
 
-### Wykres trendu sald EUR w CompanyA
+<h3>Trend sald: Company A – EUR</h3>
+<img src="images/wykres%20A%20EUR.png" alt="Wykres EUR A" width="700"/>
 
-![Saldo EUR](images/wykres%20A%20EUR.png)
+<hr>
 
-### Wykres podsumowania PLN
-
-![podsumowanie PLN](images/podsumowanmie%20PLN.png)
+<h3>Podsumowanie sald: wszystkie spółki – PLN</h3>
+<img src="images/podsumowanie%20PLN.png" alt="Podsumowanie PLN" width="700"/>
