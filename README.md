@@ -16,12 +16,12 @@ Projekt oparty na Pythonie i bibliotece openpyxl oraz matplotlib.
 
 ### Arkusz CompanyA PLN
 
-![ARKUSZ COMPANY A PLN](images/"company A PLN.png")
+![ARKUSZ COMPANY A PLN](images/company%20A%20PLN.png)
 
 ### Wykres trendu sald EUR w CompanyA
 
-![Saldo EUR](images/"wykres A EUR.png")
+![Saldo EUR](images/wykres%20A%20EUR.png)
 
 ### Wykres podsumowania PLN
 
-![podsumowanie PLN](images/"podsumowanmie PLN.png")
+![podsumowanie PLN](images/podsumowanmie%20PLN.png)
