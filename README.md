@@ -29,3 +29,8 @@ Skrypt tworzy raport Excel (<b>SaldoDzienny.xlsx</b> do pobrania) zawierający d
 
 <h3>Podsumowanie sald: wszystkie spółki – PLN</h3>
 <img src="images/podsumowanie%20PLN.png" alt="Podsumowanie PLN" width="700"/>
+
+<hr>
+
+<h3>Arkusz podsumowania</h3>
+<img src="images/podsumowanie.png" alt="Podsumowanie" width="700"/>
